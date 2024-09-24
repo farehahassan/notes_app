@@ -1,16 +1,65 @@
-# notes_app
 
-A new Flutter project.
+# Notes App 📝
 
-## Getting Started
+Welcome to the **Notes App**, a simple and basic practice app built with Flutter to store notes locally using `SharedPreferences`. This app serves as a practical example for storing and retrieving data locally without needing a backend.
 
-This project is a starting point for a Flutter application.
+## Features ✨
 
-A few resources to get you started if this is your first Flutter project:
+- 📒 **Create Notes**: Add your own notes and store them locally.
+- 📋 **View Notes**: See all the notes you have added in a clean list.
+- 🗑️ **Delete Notes**: Remove notes easily with a single tap.
+- 💾 **Local Storage**: Data is stored locally on the device using `SharedPreferences`.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots 📸
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here are some screenshots of the app in action:
+
+1. **Notes List**:
+    ![Notes List](screenshorts/screen4.png)
+
+2. **Add Note**:
+    ![Add Note Screen](screenshorts/screen2.png)
+
+3. **Delete Note**:
+    ![Delete Note Screen](screenshorts/screen3.png)
+
+4. **No Notes**:
+    ![No Notes Screen](screenshorts/screen1.png)
+
+## How to Run 🛠️
+
+To run this app on your local machine:
+
+1. Clone the repo:
+   ```bash
+   git clone [https://github.com/yourusername/notes-app.git](https://github.com/farehahassan/notes_app-using-sharedPrefrences)
+   ```
+   
+2. Navigate to the project directory:
+   ```bash
+   cd notes_app-using-sharedPrefrences
+   ```
+
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## Technologies Used 💻
+
+- **Flutter** for the app development.
+- **SharedPreferences** for local data storage.
+- **Dart** as the programming language.
+
+## Contribution 🤝
+
+Feel free to open issues or make pull requests if you would like to contribute to this project. This is a simple app for learning purposes, and feedback is always appreciated!
+
+
+Made with ❤️ by Fareha Hassan
+```
