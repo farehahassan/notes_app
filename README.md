@@ -31,7 +31,7 @@ To run this app on your local machine:
 
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/yourusername/notes-app.git](https://github.com/farehahassan/notes_app-using-sharedPrefrences)
+   git clone https://github.com/farehahassan/notes_app-using-sharedPrefrences
    ```
    
 2. Navigate to the project directory:
