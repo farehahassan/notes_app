@@ -14,17 +14,16 @@ Welcome to the **Notes App**, a simple and basic practice app built with Flutter
 
 Here are some screenshots of the app in action:
 
-1. **Notes List**:
-    ![Notes List](screenshorts/screen4.png)
-
-2. **Add Note**:
-    ![Add Note Screen](screenshorts/screen2.png)
-
-3. **Delete Note**:
-    ![Delete Note Screen](screenshorts/screen3.png)
-
-4. **No Notes**:
-    ![No Notes Screen](screenshorts/screen1.png)
+<table>
+  <tr>
+    <td><img src="screenshorts/screen4.png" alt="Notes List" width="300"/></td>
+    <td><img src="screenshorts/screen2.png" alt="Add Note Screen" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshorts/screen3.png" alt="Delete Note Screen" width="300"/></td>
+    <td><img src="screenshorts/screen1.png" alt="No Notes Screen" width="300"/></td>
+  </tr>
+</table>
 
 ## How to Run 🛠️
 
